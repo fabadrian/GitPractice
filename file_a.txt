@@ -1,5 +1,1 @@
-A Git egy verziókezelő, ami annyit takar, hogy fileoknak a különböző verzióit lehet felügyelet alatt tartani. Ennek az előnyeihez tartozik, 
-hogy nyomon lehet követni, hogy mikor, miként változtak az adatok; 
-vissza lehet állítani azokat korábbi állapotokba;
-szinkronizálni lehet egy másik gépen lévő hasonló köynvátrral;
-titkosított csatornán (SSH) lehet ezeket elvégezni.
+*.txt
